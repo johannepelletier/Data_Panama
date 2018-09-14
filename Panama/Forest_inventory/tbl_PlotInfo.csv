@@ -1,0 +1,189 @@
+SP,Plot,GPS,Person,Date,Elev,LandUse,ATC,ATC%,Dir_ATC,AFC,AFC%,Dir_AFC,DirWoody,Note
+52,1,2,Andres,7/26/2010,376,Bosque,28.6,54.5,N,18.4,33.2,S,33.2,Angulo se tomo despues (ver notas)
+52,2,3,Andres,7/26/2010,364,Bosque,0,0,x,0,0,x,0,Es plano
+52,3,4,Andres,7/26/2010,254,Rastrojo,34,67.5,S,46,103.6,N,67.5,"Rastrojo que era potrero hace 15 años del Sr. Carlos Lopez, padre de Anabel"
+52,4,5,Andres,7/26/2010,353,Rastrojo,31,60.1,S,21.9,40.2,N,60.1,Posibilida de error en angulo para SP 52
+28,1,10,Johanne,7/29/2010,239,Cultivo,17.5,31.4,E,32.3,63.8,O,31.4,Cultivo de banano
+28,2,11,Johanne,7/29/2010,231,Cultivo,0,0,,0,0,,0,Es plano. Al lado del rio Guabo
+28,3,12,Johanne,7/29/2010,285,Cultivo,4.5,7.8,N,18.6,33.6,S,33.6,"Cultivo en rastrojo viejo, Camino 210ft hacia 330º y cambio hacia norte por un total de 426ft"
+28,4,13,Johanne,7/29/2010,305,Rastrojo,9.2,16.1,E,16.7,30,O,16.1,Rastrojo bajo tocando bosque de galeria
+5,1,14,Johanne,7/30/2010,364,Bosque_Intervenido,35.9,72.3,N,4.2,7.4,S,7.4,"Dos dueños (Venancio Martinez), dos usos de tierra, el angulo se tomo despues, no se si se tomo bien, Bosque y Rastrojo"
+5,2,15,Johanne,7/30/2010,347,Bosque,8.5,14.9,N,18.8,34,S,34,Uso no coincide con representacion en el mapa (hay apertura por quebrada)
+5,3,17,Johanne,7/30/2010,332,Bosque_Intervenido,24.2,45,N,5.9,10.3,S,10.3,Ubicado al lado de un area de derrumbe Rastrojo alto
+5,4,18,Johanne,7/30/2010,306,Bosque_Intervenido,22.5,28.2,N,19,34.4,S,34.4,Area de derrumbe y bosque
+21,4,24,Andres,7/27/2010,296,Rastrojo,37.9,44.5,S,67,67,N,,"Solo una pagina, no se indico si habia arboles caidos, hay un problema con valor de angulo norte 67 es solo possible para porcentage"
+21,3,25,Andres,7/27/2010,300,Rastrojo,0,0,,0,0,,0,"No se noto el angulo, no aparece nombre del dueño (se asuma Aurelio Santos) Rastrojo Bajo"
+21,2,26,Andres,7/27/2010,315,Rastrojo,32.3,63.2,S,26.2,49.2,N,63.2,"Rastrojo para cultivo, Dueño?"
+21,1,27,Andres,7/27/2010,347,Rastrojo,21,32.2,O,14.2,25.3,E,25.3,"Rastrojo para siembro de verduras. Puntos del lado oeste del rio (carretera), Dueño?"
+49,2,29,Johanne,7/28/2010,317,Rastrojo,19.3,34.9,O,24.1,44.8,E,44.8,"Antes sembro maiz, Punto GPS se tomo despues, 131ft al oeste"
+49,3,30,Johanne,7/28/2010,345,Bosque_Intervenido,35.1,70.4,N,35.6,71.5,S,71.5,"Rastrojo alto sobre maiz, cerca de 15 anos, distancia 500m hacia este"
+49,4,31,Johanne,7/28/2010,352,Rastrojo,25.8,48.4,N,28.2,53.7,S,53.7,Rastrojo de cómo 5 años (probablemente deforestado a un momento dado)
+17,1,33,Johanne,8/2/2010,483,Derrumbe,10.2,17.9,O,4.3,7.6,E,7.6,"Derrumbe de 2 años causado durante la inundacion de 2008, antes eran cultivos"
+17,2,34,Johanne,8/2/2010,510,Bosque_Intervenido,21.5,39.3,N,30.6,59.2,S,59.2,Uso de tierra es derrumbe y parte de sendero Derrumbe y Camino
+17,3,35,Johanne,8/2/2010,494,Rastrojo,14.3,25.6,O,9,15.8,E,15.8,"Rastrojo, sembro banano hace 8 a 10 años, Angulo se toma a 5m por caida abrupta"
+17,4,36,Johanne,8/2/2010,506,Rastrojo,7.2,12.6,O,14,25,E,25,Rastrojo de maiz hace 6-7 años
+41,1,37,Johanne,8/3/2010,279,Rastrojo,38.4,79.3,S,37.6,76.9,N,79.3,"Terreno Liberto o Elisia Abrego, Rastrojo bajo sobre cultivos de arroz y Otoe appr. 1 año"
+41,2,38,Johanne,8/3/2010,265,Rastrojo,5.2,9,x,0.5,0.8,x,0,"No dirección para angulo, rastrojo bajo sobre cultivo de arroz, ubicado a 145 ft de parcela 1"
+41,3,39,Johanne,8/3/2010,266,Rastrojo,11.3,20,N,4,6.9,S,6.9,Rastrojo sobre cultivo de arroz approx. 2 años y Fifa
+41,4,40,Johanne,8/3/2010,281,Rastrojo,32.9,64.8,N,24,44.6,S,44.6,Rastrojo sobre cultivos de maiz y arroz
+27,1,41,Johanne,8/4/2010,254,Cultivo,7.7,13.5,O,8,14,E,14,Cultivo de banano
+27,2,42,Johanne,8/4/2010,223,Cultivo,8.8,15.5,O,17.8,32.1,E,32.1,"Cultivo de banano, 131 ft hacia el norte"
+27,3,43,Johanne,8/4/2010,252,Cultivo,29.8,35.9,N,28.1,53.4,S,53.4,"Cultivo de banano, Fuimos Norte a 426 ft, tuvimos que cambiar la posicion por un barranco"
+27,4,44,Johanne,8/4/2010,257,Cultivo,7.4,13,N,11.5,20.3,S,20.3,"Cultivo de banano, 131 ft hacia 120 grados para evitar barranco"
+40,1,45,Johanne,8/5/2010,278,Cultivo,1.6,2.8,O,17.2,31,E,31,"Banano y Fifa, primero habia sembrado maiz y despues Banano y fifa"
+40,2,46,Johanne,8/5/2010,270,Cultivo,8.4,14.8,N,29.8,57.2,S,57.2,Cultivo de banano. Este a 131ft hacia 215 grado
+40,3,47,Johanne,8/5/2010,297,Cultivo,26.5,48.9,N,24.2,44.9,S,44.9,Angulo indicado sobre pagina parcela 4
+40,4,48,Johanne,8/5/2010,264,Cultivo,19,34.4,N,26,48.8,S,48.8,"a 131 ft hacia el sur, cultivo de Banano"
+60,1,51,Johanne,8/7/2010,400,Bosque,33.9,67.1,S,35.2,70.6,N,67.1,Bosque Primario
+60,2,52,Johanne,8/7/2010,320,Bosque,38.2,78.7,O,30.1,57.9,E,57.9,"Barranco con quebrada en el norte de la parcela, Bosque Primario"
+60,3,53,Johanne,8/7/2010,375,Bosque,42.7,92.3,S,36.3,73.5,N,92.3,"Tuvimos que retroceder por barranco, distancia cerca de 375 ft hacia sur"
+60,4,54,Johanne,8/7/2010,404,Bosque,26.2,49.3,S,30.7,59.3,N,49.3,Bosque Primario
+122,1,55,Johanne,8/10/2010,245,Rastrojo,0,0,x,0,0,x,0,Sobre cultivo de brete y banano
+122,2,56,Johanne,8/10/2010,264,Rastrojo,4.9,8.6,S,5.6,9.8,N,8.6,"Y c.banano Dos arboles no se midieron porque estaban rodeados de pita, para evitar daños en la finca"
+122,3,57,Johanne,8/10/2010,498,Rastrojo,29.4,56.4,O,19.5,35.4,E,35.4,
+122,4,58,Johanne,8/10/2010,246,Rastrojo,10.8,19.1,S,6.9,12.1,N,19.1,Rastrojo Alto
+69,1,59,Johanne,8/11/2010,282,Cultivo,10.3,18.2,N,16.2,29.1,S,29.1,"Cerca de Arboles de galeria y unas arboles grandes, Cultivo de Banano"
+69,2,60,Johanne,8/11/2010,289,Bosque_Intervenido,16.8,30.1,O,13.2,23.5,E,23.5,"Rastrojo Alto, Bosque Secundario"
+69,3,61,Johanne,8/11/2010,359,Bosque_Intervenido,23,42.5,N,3.9,6.8,S,6.8,Bosque Secundario
+69,4,62,Johanne,8/11/2010,376,Bosque_Intervenido,18.7,33.8,N,18.7,33.9,S,33.9,Bosque Secundario
+126,1,63,Johanne,8/12/2010,375,Rastrojo,15.5,27.7,N,1.8,3.1,S,3.1,"Terreno con vivienda antes. Sembraron bambu (Cantidad-50) y pita hace tiempo, Se cultivo hac 30a"
+126,2,64,Johanne,8/12/2010,384,Rastrojo,20.1,36.6,S,33.4,65.9,N,36.6,
+126,3,65,Johanne,8/12/2010,372,Rastrojo,18.1,32.6,O,10.5,18.6,E,18.6,
+126,4,66,Johanne,8/12/2010,406,Rastrojo,24,44.5,N,9.4,16.5,S,16.5,Rastrojo o bosque secundario
+65,1,67,Johanne,8/13/2010,311,Bosque,45,100,O,25.4,47.5,S 150,47.5,"Direccion segundo angulo, Bosque intacto"
+65,2,68,Johanne,8/13/2010,301,Bosque,26,48.8,O,19.6,35.6,E,35.6,Bosque intacto
+65,3,69,Johanne,8/13/2010,295,Bosque_Intervenido,10.6,18.8,O,2,3.5,E,3.5,"Tuvimos que retroceder para no entrar en rastrojo, Menos que 426ft, Rastrojo Alto"
+65,4,70,Nathaly,8/13/2010,303,Bosque,30.2,58.3,O,15,26.8,E,26.8,"El punto se hizo hacia NE para quedar en bosque maduro, Bosque intacto"
+128,1,71,Nathaly,8/14/2010,333,Rastrojo,15.7,28.1,E,17.5,31.5,O,31.5,Rastrojo mas antiguo
+128,2,72,Nathaly,8/14/2010,314,Bosque_Intervenido,31.5,61.3,S,24.4,45.3,N,45.3,"Desde parcela  se tomo al sur oeste porque al oeste era otro dueno, Rastrojo mas antiguo, Rastrojo Alto"
+128,3,73,Nathaly,8/14/2010,270,Rastrojo,25.1,43.9,N,20.1,36.6,S,36.6,Rastrojo mas reciente
+128,4,74,Nathaly,8/14/2010,282,Rastrojo,18.5,33.5,N,9.2,16.3,S,16.3,Rastrojo mas reciente
+127,1,75,Johanne,8/16/2010,374,Rastrojo,42,90,S,36.7,74.6,N,90,"Antes era potrero dijo el abuelo de Rocendo, Se movio parcela para no estar en finca Abraham Santos"
+127,2,76,Johanne,8/16/2010,380,Bosque,37.3,76.2,S,36.7,74.4,N,76.2,"Bosque donde no se cultivo nada según Rocendo, ubicabo al lado de un derrumbre al este"
+127,3,77,Johanne,8/16/2010,368,Rastrojo,53.4,135.1,O,44.9,99.6,E,99.6,"Pendiente extremo, terreno con piedra"
+127,4,78,Johanne,8/16/2010,399,Rastrojo,45,100.1,O,44.3,97.7,E,97.7,"Bosque de piedra, rastrojo sobre cultivo de maiz"
+124,1,79,Johanne,8/17/2010,604,Bosque,22.6,41.6,O,4.3,7.5,E,7.5,Bosque afectado por el viento que parece a rastrojo
+124,2,80,Johanne,8/17/2010,619,Bosque,15.5,27.8,O,9.6,16.9,E,16.9,Bosque afectado por la brisa que parece a rastrojo
+124,3,81,Johanne,8/17/2010,561,Bosque,18.3,33,O,20.1,36.6,E,36.6,Bosque afectado por la brisa que parece a rastrojo
+124,4,82,Johanne,8/17/2010,587,Rastrojo,2.8,4.9,O,0.9,1.6,E,1.6,El terreno se chapeo para sembrar Guineo pero nunca se sembro
+78,1,83,Johanne,8/18/2010,391,Rastrojo,38.6,79.8,S,1.6,2.7,N,79.8,Parcela tiene mucho bejuco y vainas typo rastrojo
+78,2,84,Johanne,8/18/2010,477,Rastrojo,37.2,75.8,O,37.4,76.5,E,76.5,Rastrojo posiblemente arroz
+78,3,85,Johanne,8/18/2010,359,Bosque,31.3,60.8,O,38.2,78.6,NE,78.6,
+78,4,86,Johanne,8/18/2010,326,Bosque,25.5,47.7,S,36.9,75,NE,75,"Bosque bastante abierto, deslizamiento en una parte"
+110,1,87,Nathaly,8/19/2010,247,Potrero,27.7,41.9,N,13.6,24.2,S,24.2,
+110,2,88,Nathaly,8/19/2010,258,Potrero,7.8,38,N,17.5,31.5,S,31.5,
+110,3,89,Nathaly,8/19/2010,281,Potrero,22.6,41.6,E,14.7,26.3,O,41.6,
+110,4,90,Nathaly,8/19/2010,274,Potrero,31.6,61.5,E,25.3,47.2,O,61.5,
+51,1,91,Nathaly,8/20/2010,357,Bosque,41.8,89.5,S,39.3,81.8,N,89.5,"Terreno de Mirxilda, le viene de su abuela"
+51,2,92,Nathaly,8/20/2010,352,Bosque,25.8,48.3,S,19.9,36.1,N,48.3,
+51,3,93,Nathaly,8/20/2010,534,Bosque_Intervenido,47.1,107.5,S,33.6,66.5,N,107.5,Bosque Secundario
+51,4,94,Nathaly,8/20/2010,309,Bosque_Intervenido,37.5,76.2,E,19.3,35,O,76.2,Bosque Secundario
+19,1,189,Johanne,7/14/2010,282,Rastrojo,38,78.1,x,0,0,x,78.1,"No hay mas info sobre angulo, Parcela cerca de tanque de agua"
+19,2,190,Other,7/14/2010,268,Rastrojo,14.8,26.4,N,12.5,22.2,E,22.2,"Se movio la parcela por la cerca y cambio de dueño, no hay hoja para Woody debris"
+19,3,191,Johanne,7/14/2010,291,Bosque_Intervenido,26.6,39.6,x,0,0,x,0,"No hay mas info sobre angulo, falta elevacion, mucho helecho (5m de altura), Bosque Secundario"
+19,4,192,Venancio,7/15/2010,263,Bosque_Intervenido,21.3,39.1,,0,0,,,Bosque Secundario
+3,1,193,Other,7/15/2010,232,Rastrojo,3.3,5.8,x,0,0,x,0,"Dueño es Armando, pero Pablo trabaja la tierra (cerca de parcela de culantro)"
+3,2,195,Other,7/15/2010,241,Rastrojo,0,0,x,0,0,x,0,Es plano.
+3,3,198,Other,7/16/2010,245,Cultivo,0,0,x,0,0,x,0,Es plano. Se movio la parcela para no estar en campo de dashin
+3,4,199,Other,7/16/2010,227,Cultivo,0,0,,0,0,,0,Es plano. Plantacion de cacao. No hay informacion sobre Woody Debris
+6,1,200,Other,7/17/2010,313,Cultivo,20.6,37.5,SO,27,50.8,N,37.5,Posible error en cuadro de 3m.
+6,2,201,Other,7/17/2010,321,Cultivo,32.2,63,O,30.3,58.4,E,58.4,
+6,3,202,Other,7/17/2010,102,Cultivo,0,0,x,0,0,x,0,No se indico el angulo
+6,4,203,Other,7/17/2010,296,Rastrojo,0,0,,0,0,,0,Es mas o menos plano.
+29,1,206,Other,7/22/2010,248,Cultivo,0,0,x,0,0,x,0,"Se deplazo la parcela de 100m para estar en el terreno de Mechi, No se indico angulo"
+29,2,207,Other,7/22/2010,253,Cultivo,28.8,54.3,x,14.6,26,x,0,
+29,3,208,Other,7/22/2010,245,Rastrojo,27.6,52.3,,21.5,39.4,,,"Angulo no tiene direccion, Rastrojo (antes era finca)"
+29,4,209,Other,7/22/2010,236,Rastrojo,12.7,22.5,,17.5,31.5,,,Rastrojo donde vivia un señor antes hace como 15 años (plantas ornamentalesy Fifa)
+53,1,210,Andres,7/23/2010,268,Rastrojo,0,0,x,0,0,x,0,"Un lado es plano.Tiene mas de 8 años de abandono, la hierba se recogio en el 1X1m"
+53,2,212,Johanne,7/23/2010,252,Rastrojo,0,0,S,21.5,39.3,N,0,"Uso para leña y madera,"
+53,3,213,Andres,7/23/2010,258,Rastrojo,5.2,9,S,32.3,63.2,N,0,Lugar donde se busca leña para la familia
+53,4,214,Andres,7/23/2010,296,Bosque,26.5,49.9,O,33.1,65.1,E,65.1,
+46,1,219,Johanne,7/26/2010,333,Bosque,25.2,46.9,S,14.9,26.6,N,46.9,Bosque para leña trabajado por Aurelio Santos
+46,2,220,Johanne,7/26/2010,327,Bosque,31,61.2,O,17.3,31.1,E,31.1,"Bosque para leña y madera, 131 ft to NW, dos angulo se tomaron hacia el centro"
+46,3,221,Johanne,7/26/2010,387,Bosque,34.3,68.1,S,20.4,37.1,N,68.1,"Bosque para leña y madera, 426 ft to the NW"
+46,4,222,Johanne,7/26/2010,380,Bosque,17.8,32,E,25.5,47.6,O,32,Bosque para leña y madera
+10,1,225,Johanne,7/27/2010,399,Bosque,16.9,30.4,E,14.6,26,O,30.4,Bosque para leña y madera
+10,2,226,Johanne,7/27/2010,384,Bosque,31.2,60.4,N,26,48.8,S,48.8,"Parcela a una distancia de 223 ft dirección pasar un derrumbe, Barranco dentro parcela ?mas grande"
+10,3,227,Johanne,7/27/2010,411,Bosque,14.8,26.4,N,8.4,14.7,S,14.7,Distancia entre parcela 2 y 3 es 274 ft por derrumbe
+10,4,228,Johanne,7/27/2010,426,Bosque,24.5,45.6,E,16.5,29.6,O,45.6,A 131 ft hacia sur
+49,1,230,Johanne,7/28/2010,328,Bosque_Intervenido,32.5,63.6,S,36.3,73.6,N,63.6,Bosque y rastrojo ubicabo al lado del camino
+44,1,231,Andres,7/28/2010,307,Rastrojo,21.6,39.6,N,35.8,72,S,72,"Melia, madre de Francisco Palacio (a verifier)"
+44,2,232,Andres,7/28/2010,147,Rastrojo,0,0,x,0,0,x,0,Esta plano.
+44,3,233,Andres,7/28/2010,196,Rastrojo,32.4,62,S,27.4,54,N,62,Cambio de dueño
+44,4,234,Andres,7/28/2010,287,Rastrojo,29.4,56.3,S,18.8,35,N,56.3,Rastrojo al orilla del rio y entre una quebrada
+14,1,235,Andres,7/29/2010,346,Cultivo,0,0,,0,0,,0,"No se indico si se necesitaba el angulo, Finca de Fifa y bananos"
+14,2,236,Andres,7/29/2010,234,Rastrojo,0,0,,0,0,,0,"Es plano, El punto esta al norte de las grangas"
+14,3,237,Andres,7/29/2010,323,Rastrojo,33.5,66.1,N,34.1,67.6,S,67.6,
+14,4,238,Andres,7/29/2010,308,Rastrojo,0,0,x,0,0,x,0,"Es plano. Rastrojo para su cultivo, antes era un pasto"
+8,1,239,Andres,7/30/2010,145,Bosque,0,0,x,0,0,x,0,"No se indico si habia angulo, Bosque Virgen"
+8,2,240,Andres,7/30/2010,382,Bosque,25.1,46.8,N,23.5,43.5,S,43.5,
+8,3,241,Andres,7/30/2010,278,Rastrojo,15.8,28.2,N,26.5,49.8,S,49.8,
+8,4,242,Andres,7/30/2010,323,Rastrojo,22,40.4,N,18,32.5,S,32.5,"Esta cerca del cultivo, Rastrojo Bajo"
+38,1,244,Andres,7/31/2010,385,Rastrojo,0,0,x,0,0,x,0,"Necesita angulo, Rastrojo tumbado hace como mas de 20 años, es limite con Santo Guerra, VerificarGPS"
+38,2,245,Andres,7/31/2010,150,Bosque,0,0,x,0,0,x,0,No se indico angulo
+38,3,246,Andres,7/31/2010,415,Rastrojo,0,0,,0,0,,0,"No se indico angulo, Rastrojo para el pasto¿? (según las notas)"
+38,4,247,Andres,7/31/2010,419,Bosque,0,0,,0,0,,0,Necesita angulo
+15,1,248,Andres,8/2/2010,456,Bosque,25.1,46.8,S,32.3,63.3,N,46.8,"obs. En el punto exacto habia Barranco se tuvo que desplazar hacia el norte para hacer parcela, Bosque Natural"
+15,2,249,Andres,8/2/2010,250,Bosque,34,67.4,O,27.4,51.7,E,51.7,"Obs. Estan donde no hay muchos arboles, Bosque Natural"
+15,3,250,Andres,8/2/2010,500,Bosque,0,0,,0,0,,0,"No se indico Dueño, uso de tierra, fecha y angulo, obs. No hay en circulo de 6m, Bosque Natural"
+15,4,251,Andres,8/2/2010,473,Rastrojo,0,0,x,0,0,x,0,No se indico el angulo
+47,1,252,Andres,8/3/2010,580,Rastrojo,15.2,27.2,x,22.5,41.4,x,0,"Rastrojo tumbado hace como 28 años, no se indico la dirección del angulo"
+47,2,253,Andres,8/3/2010,576,Rastrojo,0,0,x,0,0,x,0,Es plano. Obs. Rastrojo tumbado hace 20 años donde vivio Sr. Fautino Morales y sus familiares.
+47,3,254,Andres,8/3/2010,640,Bosque,0,0,x,0,0,x,0,Es plano
+47,4,255,Andres,8/3/2010,557,Bosque,18.9,34.2,O,16.2,29.1,E,29.1,Bosque natural
+57,1,256,Andres,8/4/2010,309,Bosque,27.5,52.1,O,11.2,19.8,E,19.8,"Bosque donde se busca leña y material para la casa, Bosque Natural"
+57,2,257,Andres,8/3/2010,288,Bosque,0,0,,0,0,,0,Es plano
+57,3,258,Andres,8/3/2010,270,Bosque,17.4,31.4,,27.2,51.4,,,No se indico la dirección del angulo
+57,4,259,Andres,8/3/2010,360,Bosque,26.7,50.2,N,33.6,66.3,S,66.3,Bosque natural
+25,1,260,Andres,8/5/2010,323,Rastrojo,25.2,35.2,N,35.4,61,S,61,Rastrojo de 5 años (dificil de leer lo que esta escrito)
+25,2,261,Andres,8/5/2010,329,Rastrojo,0,0,x,0,0,x,0,"Es plano, no se escrivio el uso de tierra pero se asuma mismo que parcela anterior"
+25,3,262,Andres,8/5/2010,148,Rastrojo,0,0,x,0,0,x,0,"Montes trabajado hace 10 años, es plano"
+25,4,263,Andres,8/5/2010,359,Rastrojo,26.3,49.4,N,20.1,36.6,S,36.6,
+30,1,264,Andres,8/6/2010,321,Bosque,0,0,x,0,0,x,0,No se indico si habia que tomar el angulo
+30,2,265,Andres,8/6/2010,286,Bosque,27.1,51.2,,26.6,50,,,No se indico la direccion del angulo
+30,3,266,Andres,8/6/2010,426,Bosque,32.4,57.7,,32.8,64.5,,,No se indico la direccion del angulo
+30,4,267,Andres,8/6/2010,328,Bosque,34.1,67.7,,32.6,64,,,No se indico la direccion del angulo
+58,1,274,Andres,8/8/2010,536,Bosque,29.5,38.7,O,18.2,33,E,33,
+58,2,275,Venancio,8/9/2010,541,Bosque,30.6,59.7,N,8.7,15.3,S,15.3,
+58,3,276,Venancio,8/9/2010,467,Bosque,39.7,82.9,N,36.2,73.2,S,73.2,
+58,4,279,Venancio,8/9/2010,368,Bosque,0,0,x,0,0,x,0,No se necesita el angulo
+73,1,280,Andres,8/10/2010,291,Bosque,30,58.6,E,24,44.6,O,58.6,
+73,2,281,Andres,8/10/2010,392,Bosque,0,0,x,0,0,x,0,No se indico si habia que tomar angulo o no
+73,3,282,Andres,8/10/2010,,Bosque,0,0,x,0,0,x,0,No se indico si habia que tomar angulo o no; no hay valor de altitud
+73,4,283,Andres,8/10/2010,162,Bosque,0,0,,0,0,,0,No se indico si habia que tomar angulo o no
+20,1,284,Andres,8/11/2010,154,Bosque,0,0,,0,0,,0,"No se necesita el angulo, No hay arbol caido"
+20,2,285,Andres,8/11/2010,398,Bosque,38.1,80.6,S,35.4,71.1,N,80.6,No hay arbol caido
+20,3,286,Andres,8/11/2010,511,Bosque,0,0,,0,0,,0,"No se necesita el angulo, no hay árboles caídos"
+20,4,287,Andres,8/11/2010,494,Bosque,20.2,36.8,S,21.6,39.5,N,36.8,Bosque natural
+94,1,288,Andres,8/12/2010,302,Bosque_Intervenido,0,0,,0,0,,0,"Es plano. Se movio el punto porqué caia en cultivo, el lugar estaba recien quemado, Bosque Secundario"
+94,2,289,Andres,8/12/2010,324,Bosque_Intervenido,0,0,,0,0,,0,"Es plano (je crois!), No hay arboles en circulo de 6m, Bosque Secundario"
+94,3,290,Andres,8/12/2010,267,Bosque,28.5,34.2,E,30.8,59.7,O,34.2,Possible confusion nb point y GPS fonctionne mais pas organisation logique (temps y date)
+94,4,291,Andres,8/12/2010,332,Bosque,37.3,69.3,x,24.3,45.1,x,0,Se dirigieron hacia el Norte para no quedar en terreno de otra persona
+123,1,292,Andres,8/13/2010,165,Bosque,21.4,41.2,S,26.9,50.8,N,41.2,
+123,2,293,Andres,8/13/2010,277,Bosque,38.8,80.4,,28.6,54.6,,,
+123,3,294,Andres,8/13/2010,301,Bosque_Intervenido,0,0,,0,0,,0,Rastrojo Secundario
+123,4,295,Andres,8/13/2010,357,Bosque_Intervenido,33.2,65.4,,21.9,40.2,,,"No se noto la direccion para el angulo, no hay arboles caidos en este punto, Bosque Secundario"
+129,1,297,Andres,8/14/2010,431,Bosque,0,0,x,0,0,x,0,"Es Plano, Rastrojo más antiguo"
+129,2,298,Andres,8/14/2010,365,Bosque,16.1,28.9,S,11.4,20.1,N,28.9,Rastrojo más antiguo
+129,3,299,Andres,8/14/2010,435,Bosque,0,0,x,0,0,x,0,"Es plano, Rastrojo más reciente"
+129,4,300,Andres,8/14/2010,478,Bosque,31.4,61,N,41.3,88,S,88,Rastrojo más reciente
+68,1,301,Andres,8/16/2010,551,Rastrojo,0,0,,0,0,,,Es plano.
+68,2,302,Andres,8/16/2010,570,Rastrojo,18.5,33.5,E,25.8,48.3,O,33.5,Hay Candelia en una parte
+68,3,303,Andres,8/16/2010,661,Bosque,41.8,62.1,E,35.1,70.1,O,62.1,
+68,4,304,Andres,8/16/2010,629,Bosque,0,0,,0,0,,0,Es plano.
+130,1,305,Andres,8/17/2010,174,Bosque,0,0,x,0,0,x,0,No se indico angulo. El punto SP 130 (rastrojo) quedó en vez en cultivo de maíz y al oeste pasto.
+130,2,306,Andres,8/16/2010,225,Bosque,35.8,72.2,x,2.2,3.8,x,0,No se indico direccion del angulo. No se indico el uso pero se asuma bosque
+130,3,307,Andres,8/18/2010,287,Bosque,0,0,,0,0,,0,No se indico angulo. Hoja parecen decir bosque segundario quizas?
+130,4,308,Andres,8/18/2010,146,Bosque_Intervenido,0,0,x,0,0,x,0,"Es plano., Rastrojo Secundario"
+7,1,309,Andres,8/18/2010,479,Rastrojo,28.4,54.1,SE,23.7,43.9,O,54.1,Parece haber error en porcento angulo SE
+7,2,310,Andres,8/18/2010,486,Rastrojo,52.2,128.9,E,21.8,40,O,128.9,"Parece haber error en porcento angulo E, entrado por Andres y Nathaly"
+7,3,311,Andres,8/18/2010,351,Bosque,30.2,58.2,S,28.7,54.8,N,58.2,Uso dice Bosque pero vegetación indica rastrojo
+7,4,312,Andres,8/18/2010,444,Rastrojo,39.7,82.9,N,31.2,60.6,S,60.6,Uso de suelo no indicado
+98,1,322,Andres,8/19/2010,386,Rastrojo,47.4,76.4,N,2.3,4.1,S,4.1,Rastrojo segundario
+98,2,323,Andres,8/19/2010,503,Rastrojo,0,0,,0,0,,0,"Es plano. No se indico uso, se asuma rastrojo"
+98,3,324,Andres,8/19/2010,386,Bosque,60.2,124.2,N,24.5,56.1,S,56.1,Posible error en angulo?
+98,4,325,Andres,8/19/2010,385,Bosque,0,0,,0,0,,0,Es plano
+9,1,326,Andres,8/20/2010,360,Bosque,20.4,52.1,N,43.5,72.1,S,72.1,No se indico el uso pero se piensa bosque?
+9,2,327,Andres,8/20/2010,393,Bosque,58.4,120.2,O,43.5,95,E,95,(Porfirio Gonzalez)
+9,3,328,Andres,8/20/2010,248,Rastrojo,41,60.1,O,30.7,59.4,E,59.4,Rastrojo algo… no se puede leer
+9,4,329,Andres,8/20/2010,381,Rastrojo,24.6,45.8,O,21,38.3,E,38.3,Direccion de angulo se asuma
